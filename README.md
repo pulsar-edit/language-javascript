@@ -1,3 +1,5 @@
+### This Repo is Archived under Pulsar-Edit due to being bundled within the Core Editor. See [PR #14](https://github.com/pulsar-edit/pulsar/pull/14)
+
 # JavaScript language support in Atom
 
 ![ci](https://github.com/atom/language-javascript/workflows/ci/badge.svg)
